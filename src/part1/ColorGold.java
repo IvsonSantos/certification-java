@@ -1,4 +1,4 @@
-package test;
+package part1;
 
 public interface ColorGold {
 

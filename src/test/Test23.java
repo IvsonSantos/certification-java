@@ -25,5 +25,14 @@ public class Test23 {
 
         long z = 2 + (f = 6);
         System.out.println(z);
+
+        System.out.println(f > a);
+
+        boolean b1 = true;
+        boolean b2 = false;
+        boolean c2 = !b1;
+
+        System.out.println(20 % 3);
+
     }
 }

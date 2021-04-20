@@ -1,4 +1,4 @@
-package test;
+package part1;
 
 public class ColorTest implements ColorBlack, ColorRed, ColorGold {
 
