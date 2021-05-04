@@ -19,7 +19,6 @@ public class S2 {
         int c = 5;
         System.out.println(c = 5); // não imprime true, imprime 5
 
-
         double positiveInfinity = 100 / 0.0;
         double negativeInfinity = -100 / 0.0;
 
